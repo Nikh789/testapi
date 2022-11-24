@@ -1,0 +1,35 @@
+{
+
+id: 2
+
+lab_cd: "ACEM"
+
+lab_name: "ACEM"
+
+cluster_id: "1"
+
+contact_no: "02550-282504, 279207"
+
+region_cd: null
+
+lab_addr: "PB No. 11 CIDCO POST OFFICE, NASIK - 422 009"
+
+lab_type: "SELF"
+
+city_cd: "NSK"
+
+zone: null
+
+dir_name: null
+
+created_at: null
+
+updated_at: "2021-12-14T06:30:15.000000Z"
+
+deleted_at: null
+
+status: "1"
+
+dir_email: "director@acem.pundom"
+
+}
